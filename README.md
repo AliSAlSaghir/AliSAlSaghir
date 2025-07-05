@@ -1,10 +1,9 @@
-Hi 👋 My name is Ali Al Saghir
+Hi 👋 I'm AliS
 ==============================
 
-FullStack Web Dev
------------------
 
-I'm Ali Al Saghir, a full-stack web developer who loves building clean, scalable apps with Laravel and React. I'm currently diving into DevOps and always working to level up my skills. In my free time, I enjoy touch typing and watching movies, anime, and reading books. I'm also a big fan of Clash Royale — always up for a good battle between coding sessions!
+
+A full-stack web developer who loves building clean, scalable apps with Laravel and React. I'm currently diving into DevOps and always working to level up my skills. In my free time, I enjoy touch typing and watching movies, anime, and reading books. I'm also a big fan of Clash Royale — always up for a good battle between coding sessions!
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [alisalsaghir@gmail.com](mailto:alisalsaghir@gmail.com)
